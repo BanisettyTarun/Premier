@@ -40,9 +40,9 @@ nav h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: monument;
-    /* font-family: "Archivo Black", sans-serif; */
-    font-weight: 700;
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 900;
     letter-spacing: -0.2vw;
     font-size: 3vw;
     cursor: pointer;
@@ -158,8 +158,8 @@ nav h2:nth-child(2){
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-family: monument;
-    /* font-family: "Archivo Black", sans-serif; */
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
     color: white;
     padding-right: 1vw;
     margin-bottom: 5vh;
@@ -172,6 +172,7 @@ nav h2:nth-child(2){
 #over1 h2:nth-child(2){
     font-size: 1.5vw;
     font-family: "Montserrat", sans-serif;
+
     font-weight: 500;
     border: 1px solid white;
     padding: 1.8vw;
@@ -288,8 +289,8 @@ nav h2:nth-child(2){
     height: 10%;
     font-size: 2.5vw;
     font-weight: 600;
-    font-family: monument;
-    /* font-family: "Archivo Black", sans-serif; */
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
     text-transform: uppercase;
     display: flex;
     align-items: end;
@@ -401,7 +402,9 @@ nav h2:nth-child(2){
 }
 .updates{
     height: 10vw;
-    font-family: monument;
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
+    
     font-size: 2.8vw;
     text-transform: uppercase;
     /* background-color: red;   */
@@ -480,7 +483,9 @@ nav h2:nth-child(2){
     font-weight: 300;
     display: inline-block;
     text-transform: uppercase;
-    font-family: monument;
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
+
     -webkit-text-stroke: 1.2px black;
     color: transparent;
     letter-spacing: 0.2vw;
@@ -529,7 +534,9 @@ nav h2:nth-child(2){
     padding-top: 1vw;
 }
 #page-6-right h2{
-    font-family: monument;
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
+
     font-size: 2.5vw;
     text-transform: uppercase;
     font-weight: 600;
@@ -575,8 +582,11 @@ nav h2:nth-child(2){
     gap: 4vw;
 }
 #blog-heading{
-    font-family: monument;
+    /* font-family: monument; */
+    font-family: "Archivo Black", sans-serif;
+
     text-transform: uppercase;
+    font-weight: 900;
     width: 20%;
     font-size: 1.7vw;
 }
